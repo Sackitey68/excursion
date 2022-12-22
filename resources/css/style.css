@@ -4,7 +4,7 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 
 }
-
+ /* headings */
 .main-header{
     font-weight: normal;
     font-size: 50px;
@@ -12,7 +12,20 @@ body {
 
 }
 
+.second-heading{
+    font-weight: 300;
+    color: #ffffff;
+    font-size: 42px;
+}
+
+.third-heading{
+    font-size: 21px;
+    color: grey;
+}
+
+/* links */
 .download-link{
     font-size: 16px;
     color: aquamarine;
 }
+
